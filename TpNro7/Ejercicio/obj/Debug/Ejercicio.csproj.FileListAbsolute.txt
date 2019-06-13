@@ -1,0 +1,7 @@
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\bin\Debug\Ejercicio.exe
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\obj\Debug\Ejercicio.exe
+C:\repo7\tp-nro7-TattySanagua\TpNro7\Ejercicio\obj\Debug\Ejercicio.pdb
